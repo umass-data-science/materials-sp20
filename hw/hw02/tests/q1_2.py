@@ -40,8 +40,9 @@ test = {
         },
         {
           'code': r"""
-          >>> book_title_words
-          array(['Eats', 'Shoots', 'and Leaves'], dtype='<U10')
+          >>> #array(['Eats', 'Shoots', 'and Leaves'], dtype='<U10')
+          >>> print(book_title_words)
+          ['Eats' 'Shoots' 'and Leaves']
           """,
           'hidden': False,
           'locked': False
