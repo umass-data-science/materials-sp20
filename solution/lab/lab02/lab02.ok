@@ -1,0 +1,16 @@
+{
+  "endpoint": "umass/compsci190F/fa18/lab02",
+  "name": "Lab 2: Data Types",
+  "protocols": [
+    "file_contents",
+    "grading",
+    "backup",
+    "scoring"
+  ],
+  "src": [
+    "lab02.ipynb"
+  ],
+  "tests": {
+    "tests/q*.py": "ok_test"
+  }
+}
