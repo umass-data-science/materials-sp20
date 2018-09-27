@@ -7,7 +7,7 @@ test = {
         {
           'code': r"""
           >>> round(dissimilarity)
-          14061.0
+          7218.0
           """,
           'hidden': False,
           'locked': False
