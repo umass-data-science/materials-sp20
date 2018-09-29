@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> 300 <= revised_dissimilarity <= 600
+          >>> 5 <= revised_dissimilarity <= 9
           True
           """,
           'hidden': False,
