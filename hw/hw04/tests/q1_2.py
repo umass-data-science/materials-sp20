@@ -7,7 +7,7 @@ test = {
         {
           'code': r"""
           >>> chapter_lengths
-          array([1005, 2016, 1613, 4382])
+          array([ 911, 1827, 1468, 3994])
           """,
           'hidden': False,
           'locked': False

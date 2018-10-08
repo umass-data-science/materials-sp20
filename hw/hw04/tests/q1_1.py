@@ -7,7 +7,7 @@ test = {
         {
           'code': r"""
           >>> word_count(tale_chapters.column("Chapter text").item(0))
-          1005
+          911
           """,
           'hidden': False,
           'locked': False
