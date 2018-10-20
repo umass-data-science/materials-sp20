@@ -1,12 +1,12 @@
 test = {
-  'name': 'Question 2_4',
+  'name': 'Question 1_5',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> datascience_proportion == 0
+          >>> len(test_statistics_under_null) == 10000
           True
           """,
           'hidden': False,

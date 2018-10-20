@@ -6,7 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> list_chances in [1,2,3]
+          >>> # It looks like your simulation isn't random.
+          >>> np.std([simulate() for _ in range(1000)]) > 0
           True
           """,
           'hidden': False,

@@ -1,12 +1,12 @@
 test = {
-  'name': 'Question 4_4',
+  'name': 'Question 3_3',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> type(strongest_earthquake_magnitude) == np.float64
+          >>> 0 <= probability_of_false <= 1
           True
           """,
           'hidden': False,

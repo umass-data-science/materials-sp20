@@ -1,5 +1,5 @@
 {
-  "name": "Homework 6: Probability, Simulation, Estimation, and Assessing Models",
+  "name": "Homework 6: Testing Hypotheses",
   "endpoint": "umass/compsci190F/fa18/hw06",
   "src": [
     "hw06.ipynb"

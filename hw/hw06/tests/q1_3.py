@@ -6,7 +6,9 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> lottery in [1,2,3]
+          >>> type(reasonable_test_statistics) == list
+          True
+          >>> len(reasonable_test_statistics) > 0
           True
           """,
           'hidden': False,

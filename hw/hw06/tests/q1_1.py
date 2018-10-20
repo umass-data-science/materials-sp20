@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> ten_sixes in [1,2,3]
+          >>> 0 < p_winning_after_two_flips < 1
           True
           """,
           'hidden': False,

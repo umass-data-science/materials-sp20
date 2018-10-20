@@ -1,12 +1,12 @@
 test = {
-  'name': 'Question 2_1',
+  'name': 'Question 3_5',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> round(datascience_chance, 18) == 2.72e-16
+          >>> len(test_results) == 300
           True
           """,
           'hidden': False,

@@ -1,15 +1,12 @@
 test = {
-  'name': 'Question 4_6',
+  'name': 'Question 1_7',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> # It looks like your other_statistic array is empty!
-          >>> len(other_statistic) != 0
-          True
-          >>> len(other_statistic) == 5000
+          >>> 0 <= p_value < 1
           True
           """,
           'hidden': False,

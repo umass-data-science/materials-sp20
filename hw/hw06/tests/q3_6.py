@@ -1,12 +1,12 @@
 test = {
-  'name': 'Question 2_6',
+  'name': 'Question 3_6',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> round(e_chance, 4) == .3504
+          >>> 0 <=  approximate_probability_of_false  <= 1
           True
           """,
           'hidden': False,
