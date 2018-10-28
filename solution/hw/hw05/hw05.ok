@@ -1,0 +1,16 @@
+{
+  "endpoint": "umass/compsci190F/fa18/hw05",
+  "name": "Homework 5: Probability, Simulation, Estimation, and Assessing Models",
+  "protocols": [
+    "file_contents",
+    "grading",
+    "backup",
+    "scoring"
+  ],
+  "src": [
+    "hw05.ipynb"
+  ],
+  "tests": {
+    "tests/q*.py": "ok_test"
+  }
+}
