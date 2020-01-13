@@ -1,5 +1,5 @@
 {
-  "endpoint": "umass/compsci190F/fa18/hw01",
+  "endpoint": "umass/stat190f/sp20/hw01",
   "name": "Homework 1: Causality and Expressions",
   "protocols": [
     "file_contents",
