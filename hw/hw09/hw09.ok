@@ -1,6 +1,6 @@
 {
   "name": "Homework 09: Linear Regression",
-  "endpoint": "umass/compsci190F/fa18/hw09",
+  "endpoint": "umass/stat190F/sp20/hw09",
   "src": [
     "hw09.ipynb"
   ],
