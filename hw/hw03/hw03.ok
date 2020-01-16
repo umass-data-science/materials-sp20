@@ -1,6 +1,6 @@
 {
   "name": "Homework 3: Table Manipulation and Visualization",
-  "endpoint": "umass/compsci190F/fa18/hw03",
+  "endpoint": "umass/stat190F/sp20/hw03",
   "src": [
     "hw03.ipynb"
   ],
