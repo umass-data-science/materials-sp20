@@ -1,6 +1,6 @@
 {
   "name": "Homework 10: Regression Inference",
-  "endpoint": "umass/compsci190F/fa18/hw10",
+  "endpoint": "umass/stat190F/sp20/hw10",
   "src": [
     "hw10.ipynb"
   ],
