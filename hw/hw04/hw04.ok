@@ -1,6 +1,6 @@
 {
   "name": "Homework 4: Functions, Histograms, and Groups",
-  "endpoint": "umass/compsci190F/fa18/hw04",
+  "endpoint": "umass/stat190F/sp20/hw04",
   "src": [
     "hw04.ipynb"
   ],
