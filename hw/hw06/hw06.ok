@@ -1,6 +1,6 @@
 {
   "name": "Homework 6: Testing Hypotheses",
-  "endpoint": "umass/compsci190F/fa18/hw06",
+  "endpoint": "umass/stat190F/sp20/hw06",
   "src": [
     "hw06.ipynb"
   ],
