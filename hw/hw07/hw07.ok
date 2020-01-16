@@ -1,6 +1,6 @@
 {
   "name": "Homework 7: Confidence Intervals",
-  "endpoint": "umass/compsci190F/fa18/hw07",
+  "endpoint": "umass/stat190F/sp20/hw07",
   "src": [
     "hw07.ipynb"
   ],
