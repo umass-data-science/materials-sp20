@@ -1,6 +1,6 @@
 {
   "name": "Homework 8: Central Limit Theorem",
-  "endpoint": "umass/compsci190F/fa18/hw08",
+  "endpoint": "umass/stat190F/sp20/hw08",
   "src": [
     "hw08.ipynb"
   ],
